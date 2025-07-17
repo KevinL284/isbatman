@@ -38,11 +38,15 @@ O objetivo do projeto é criar um classificador de imagens capaz de distinguir o
    python main.py
    ```
 
-## Requisitos
+## Requisitos:
 
-- Python 3.8+
+- Python 3.10+
 - TensorFlow
-- Bibliotecas listadas em `requirements.txt`
+
+** Próximos Passos:
+- Expandir o dataset
+- Usar técnicas de Data Augmentation
+- Implementar a Yolo
 
 ## Contribuição
 
